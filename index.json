@@ -1,13 +1,13 @@
 {
-    "type":"MCU",
+    "type":"SoC",
     "name":"W806",
-    "title": "winnermicro W806 MCU",
-    "description":"winnermicro XT804 MCU",
+    "title": "winnermicro WiFi W806 SoC",
+    "description":"winnermicro XT804 SoC",
     "Core": {
         "type":"XT804",
         "Freq":240,
-        "DMIPS": 1177,
-        "CoreMark": 2778
+        "DMIPS": 300,
+        "CoreMark": 650
     },
     "manufacturer": {
         "vendor":"ST",
