@@ -12,10 +12,12 @@ Debug
 *#
 Change*
 CHANGE*
+# README*
 COPY*
 *CONTRIBU*
 LICENSE*
 HACKING*
+Doxyfile
 *.swp
 *.lck
 *.log
@@ -27,35 +29,3 @@ HACKING*
 *.hex
 *.bin
 *bak
-*.txt
-*.lst
-*.sct
-*.elf
-*.ini
-*.gbr
-*.drl
-*.ods
-*.odg
-*.csv
-*.xml
-*.xlsx
-*.zip
-*.xcf
-# *cm4*
-# *cm7*
-*cm1*
-*cm0*
-*.uvgu*
-.gitmodules
-# *.png
-# *.jpg
-*.rst
-.travis.yml
-doc
-*dox
-tests
-# mk
-Doxyfile
-**/*/README*
-*.so
-*.dcm
